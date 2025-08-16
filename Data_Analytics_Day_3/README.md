@@ -36,11 +36,6 @@
 - Detect outliers in `Fare` using the **IQR method**.  
 - Count how many outliers exist.  
 
----
-
-
----
- 
 
 ---
 
